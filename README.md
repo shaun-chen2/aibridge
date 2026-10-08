@@ -1,5 +1,7 @@
 # AI Bridge（AI 桥）— NeoForge 1.21.1 模组
 
+[English](README.en.md)
+
 把本地 AI（llama-swap / 任何 OpenAI 兼容接口）接进 Minecraft。
 
 ## 安装
